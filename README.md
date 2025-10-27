@@ -9,8 +9,7 @@
 ## 🌈 Features
 
 ✨ Generates strong random passwords  
-⚙️ Customizable length & characters  
-🕹️ One-click copy to clipboard  
+
 ⚡ Lightning-fast performance  
 💅 Clean & minimal UI  
 
@@ -24,10 +23,9 @@
 
 ## 🧩 How to Use
 
-1. 🎯 Choose your password length  
-2. 🧱 Select character options (uppercase, numbers, symbols)  
-3. 🔄 Click **Generate Password**  
-4. 📋 Copy it instantly with one click!
+1. 🎯 Just click on **Generate password**
+2. 🧱 Then copy text from one of the four boxes
+
 
 ---
 
@@ -43,9 +41,8 @@
 
 ## 🎨 Preview
 
-![Password Generator Preview](https://github.com/your-username/random-password-generator/assets/your-image-id)
+![Password Generator Preview](https://github.com/Riyaz5027/random-password-generator/blob/main/preview.png)
 
-*(Add your project screenshot here 🖼️)*
 
 ---
 
