@@ -71,8 +71,9 @@ body{
 #b1,#b2,#b3,#b4
 {
     
-    width: 220px;
-    height: 42px;
+    width: 200px;
+    height: 27px;
+    text-align: center;;
     margin-top: 42px;
     border:none;
     border-radius:6px;
